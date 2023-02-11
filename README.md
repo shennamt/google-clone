@@ -2,8 +2,7 @@
 
 ![Google Search Clone gif](https://media1.giphy.com/media/dsoYeYq33p1SHMfdqX/giphy.gif?cid=790b76116b2b978c7470adf51fbf86167a6fafc9afc2ebec&rid=giphy.gif&ct=g "Google Search Clone GIF")
 
-### Quick Start
-- - - -
+## Quick Start
 
 ```
 # Clone the application

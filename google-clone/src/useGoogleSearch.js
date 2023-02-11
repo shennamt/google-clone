@@ -4,7 +4,7 @@ import { useState, useEffect} from 'react';
 import API_KEY from './keys';
 
 // from google's programmable search engine
-const CONTEXT_KEY = 'a55c23f5e52794b27';
+const CONTEXT_KEY = 'INSERT HERE';
 
 const useGoogleSearch = (term) => {
     // create a state called data

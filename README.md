@@ -24,9 +24,8 @@ $ npm start
 * Turn on the _Search the entire web_ option.
 
 ## Built with
-* JavaScript
 * React
-* Rapid API
+* Google Custom Search JSON API
 * Material UI
 
 ## TODO

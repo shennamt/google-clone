@@ -10,7 +10,7 @@ $ git clone
 $ npm install
 
 # Serve on localhost:3000
-$ npm start```
+```$ npm start
 
 ## Project Setup
 - - - -

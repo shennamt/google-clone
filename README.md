@@ -30,4 +30,3 @@ $ npm start
 
 ## TODO
 * Add functionalities to all pages
-* Better UI across all media sizes

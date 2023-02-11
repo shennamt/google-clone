@@ -3,7 +3,8 @@
 ### Quick Start
 - - - -
 
-```# Clone the application
+```
+# Clone the application
 $ git clone
 
 # Install dependencies

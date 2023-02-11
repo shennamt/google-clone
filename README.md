@@ -9,7 +9,7 @@ $ git clone
 # Install dependencies
 $ npm install
 
-# Servw on localhost:3000
+# Serve on localhost:3000
 $ npm start```
 
 ## Project Setup

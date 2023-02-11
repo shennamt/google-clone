@@ -3,14 +3,14 @@
 ## Quick Start
 - - - -
 
-```# Clone the application
+`# Clone the application
 $ git clone
 
 # Install dependencies
 $ npm install
 
 # Serve on localhost:3000
-```$ npm start
+$ npm start`
 
 ## Project Setup
 - - - -

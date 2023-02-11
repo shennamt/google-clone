@@ -27,6 +27,7 @@ $ npm start
 * JavaScript
 * React
 * Rapid API
+* Material UI
 
 ## TODO
 * Add functionalities to all pages

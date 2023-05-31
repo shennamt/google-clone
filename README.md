@@ -2,7 +2,7 @@
 
 ![Google Search Clone gif](https://media1.giphy.com/media/dsoYeYq33p1SHMfdqX/giphy.gif?cid=790b76116b2b978c7470adf51fbf86167a6fafc9afc2ebec&rid=giphy.gif&ct=g "Google Search Clone GIF")
 
-Live app using a mock API response (Tesla): <https://google-clone-rust-rho.vercel.app/>
+Current API Mock response is using the search results of "Tesla"
 
 ## Quick Start
 
